@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "POOL",
+  "base_artist": "tricot",
+  "createdAt": "2026-03-05T13:54:16.644441Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Pool Shark",
+      "artist": "Dave Dudley",
+      "has_synced": true,
+      "path": "select/01_The_Pool_Shark_Dave_Dudley.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Waterwings (And Other Pool Side Fashion Faux Pas)",
+      "artist": "Alexisonfire",
+      "has_synced": false,
+      "path": "select/02_Waterwings_(And_Other_Pool_Side_Fashion_Faux_Pas)_Alexisonfire.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pool Song",
+      "artist": "Longwave",
+      "has_synced": false,
+      "path": "select/03_Pool_Song_Longwave.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stagnant Pool",
+      "artist": "Leaf Hound",
+      "has_synced": false,
+      "path": "select/04_Stagnant_Pool_Leaf_Hound.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Confessions in the Pool",
+      "artist": "ASH",
+      "has_synced": true,
+      "path": "select/05_Confessions_in_the_Pool_ASH.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pool Party",
+      "artist": "Julia Jacklin",
+      "has_synced": true,
+      "path": "select/06_Pool_Party_Julia_Jacklin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Empty Pool",
+      "artist": "Cibo Matto",
+      "has_synced": true,
+      "path": "select/07_Empty_Pool_Cibo_Matto.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Swing Pool",
+      "artist": "Blonde Redhead",
+      "has_synced": true,
+      "path": "select/08_Swing_Pool_Blonde_Redhead.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tears In the Typing Pool",
+      "artist": "Broadcast",
+      "has_synced": false,
+      "path": "select/09_Tears_In_the_Typing_Pool_Broadcast.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Swimming Pool",
+      "artist": "Anna Calvi",
+      "has_synced": true,
+      "path": "select/10_Swimming_Pool_Anna_Calvi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Swimming Pool",
+      "artist": "Fallulah",
+      "has_synced": true,
+      "path": "select/11_Swimming_Pool_Fallulah.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Urn With Dead Flowers in a Drained Pool",
+      "artist": "John Parish & PJ Harvey",
+      "has_synced": false,
+      "path": "select/12_Urn_With_Dead_Flowers_in_a_Drained_Pool_John_Parish_&_PJ_Harvey.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Urn With Dead Flowers In A Drained Pool",
+      "artist": "John Parish",
+      "has_synced": false,
+      "path": "select/13_Urn_With_Dead_Flowers_In_A_Drained_Pool_John_Parish.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "POOL",
+      "artist": "tricot",
+      "has_synced": false,
+      "path": "select/pl_01_POOL_tricot.txt"
+    }
+  ]
+}
